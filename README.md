@@ -1,4 +1,4 @@
-# 🛍️mini shop with Reactjs & Ts
+# 🛍️mini shop with Reactjs & Typescript
 
 ## Used Technology 
 
