@@ -10,7 +10,7 @@ const NavBar = () => {
     <NavbarBs sticky="top" className="bg-white shadow-sm  mb-3">
       <Container>
         <Nav>
-          <Nav.Link to="/store" as={NavLink}>
+          <Nav.Link to="/" as={NavLink}>
             Home
           </Nav.Link>
 
