@@ -1,4 +1,4 @@
-##🛍️mini shop with React | Typescript  | Redux | Bootstrap | Router-dom
+# 🛍️mini shop with React | Typescript  | Redux | Bootstrap | Router-dom
 
 
 
